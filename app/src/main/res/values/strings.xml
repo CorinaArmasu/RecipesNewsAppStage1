@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipes News App Stage 1</string>
+    <string name="no_news_error">No recipes news!</string>
+    <string name="no_internet_connection_error">Please check your internet connection!</string>
+    <string name="news_categ">Category</string>
+    <string name="news_title">News Title:</string>
+    <string name="author">Author:</string>
+    <string name="date">Date:</string>
+</resources>
