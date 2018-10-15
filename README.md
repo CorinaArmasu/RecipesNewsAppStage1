@@ -77,3 +77,5 @@ All variables, methods, and resource IDs are descriptively named such that anoth
 Formatting:
 
 The code is properly formatted i.e. there are no unnecessary blank lines; there are no unused variables or methods; there is no commented out code.
+
+![screenshot_20181015-094647](https://user-images.githubusercontent.com/34723009/46941715-6e4b1c00-d074-11e8-96b6-0001c3c45eef.png)
